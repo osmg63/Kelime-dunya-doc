@@ -4,8 +4,8 @@ Kelime Dünyası, kullanıcıların İngilizce kelime öğrenmesine yardımcı o
 bir mobil uygulamadır.
 
 ## Legal
-- [Privacy Policy](./privacy-policy)
-- [Terms of Service](./terms)
+- [Privacy Policy](./privacy-policy.md)
+- [Terms of Service](./terms.md)
 
 ## Contact
 Email: osmangumus024@gmail.com
