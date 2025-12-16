@@ -5,7 +5,7 @@ bir mobil uygulamadır.
 
 ## Legal
 - [Privacy Policy](./privacy-policy)
-- [Terms of Service](./terms)
+- [Terms of Service](./TERMS OF SERVICE)
 
 ## Contact
 Email: osmangumus024@gmail.com
