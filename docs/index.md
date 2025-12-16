@@ -1,3 +1,9 @@
+---
+title: Kelime Dünyası
+---
+
+<meta name="google-site-verification" content="jxabf4ECrEtL5S5qm7ObCH3lGaiTbTzGh3SFGDChIGk" />
+
 # Kelime Dünyası
 
 Kelime Dünyası, kullanıcıların İngilizce kelime öğrenmesine yardımcı olan
