@@ -12,7 +12,7 @@ Kelime Dünyası, kullanıcıların İngilizce kelime öğrenmesine yardımcı o
 
 ### Doğrulama Dosyası
 Eğer 404 alıyorsan lütfen şu bağlantıyı kontrol et:
-[Google Doğrulama Sayfası (HTML)](./googled350f0d7c8e3d01e.html)
+[Google Doğrulama Sayfası (HTML)](./googled350f0d7c8e3d01e .html)
 
 ---
 
