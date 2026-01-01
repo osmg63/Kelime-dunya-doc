@@ -7,7 +7,7 @@ title: Kelime Dünyası
 # Kelime Dünyası
 
 Kelime Dünyası, kullanıcıların İngilizce kelime öğrenmesine yardımcı olan
-bir mobil uygulamadır.
+bir mobil uygulamadır. 
 
 ## Legal
 - [Privacy Policy](./privacy-policy.md)
